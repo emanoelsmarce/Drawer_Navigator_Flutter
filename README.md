@@ -14,7 +14,8 @@ Nessa etapa, temos Widgets novos como CircleAvatar, que cria um Circulo para que
 
 
 SizedBox que é uma caixa, como o nome diz, porém podemos definir o tamanho dessa caixa e colocar as propriedades dentro dela; 
-![image](https://user-images.githubusercontent.com/50625916/189243344-a9ce7081-b83a-434b-a979-b1461c52a333.png)
+<p>
+![image](https://user-images.githubusercontent.com/50625916/189243344-a9ce7081-b83a-434b-a979-b1461c52a333.png).
 OBS: Nesse caso, foi utilizado o SizedBox para criar uma distancia entre o Fim do Subtitle e o Início do nosso ListTile. 
 
 ListTile que é o Widget responsável por preencher um ListView, entre outros.
