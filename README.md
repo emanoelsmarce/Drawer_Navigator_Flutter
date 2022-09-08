@@ -10,6 +10,7 @@ Para começar, na própria página main.dart, criamos um StateFullWidget e atrib
 
 Logo em seguida, iremos criar o nosso menu_drawer e colocar as propriedades. 
 Nessa etapa, temos Widgets novos como CircleAvatar, que cria um Circulo para que possamos colocar a foto do nosso avatar;
+
 ![image](https://user-images.githubusercontent.com/50625916/189243296-cd9d0880-3372-47c0-8378-4bc756d3aaf3.png)
 
 
@@ -20,6 +21,7 @@ SizedBox que é uma caixa, como o nome diz, porém podemos definir o tamanho des
 OBS: Nesse caso, foi utilizado o SizedBox para criar uma distancia entre o Fim do Subtitle e o Início do nosso ListTile. 
 
 ListTile que é o Widget responsável por preencher um ListView, entre outros.
+
 ![image](https://user-images.githubusercontent.com/50625916/189243408-0033c21d-45f8-4178-bf8b-b59a4f41cf4d.png)
 
 E assim ficou nosso aplicativo final.
